@@ -51,6 +51,5 @@ The main goal was to understand how to design mobile app interfaces that feel na
 Ali Kassem Hashem
 📧 alihashemm.lb@gmail.com
 🔗 www.linkedin.com/in/alihashem1
-💬 Acknowledgment
 
 Special thanks to my internship mentors and Flutter community for their guidance and support throughout this project
